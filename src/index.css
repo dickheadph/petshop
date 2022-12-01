@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+body {
+  background-color: #fdfdfd;
+  font-family: "Varela Round", sans-serif;
+}
+@tailwind base;
+@layer base {
+  .viewIntrobtn {
+    @apply flex rounded-full border-[1px] py-1 px-3 md:py-2 md:px-3 lg:border-[2px] lg:py-2 xl:py-3;
+  }
+  .exploreNowbtn {
+    @apply rounded-full py-1 px-4 md:py-2 lg:py-2 xl:py-3;
+  }
+  .form {
+    @apply my-1 mr-2 w-full rounded-lg border-[1px] border-dark-blue p-2 outline-none;
+  }
+  .category-button {
+    @apply flex items-center rounded-full p-1 px-2 md:py-2 md:px-4;
+  }
+  .pet-type {
+    @apply mt-2 rounded-3xl border-[2px] text-[60px] md:text-[80px] lg:text-[100px];
+  }
+  .singlePetList {
+    @apply border-b-[1px] border-caramel-strong pb-2;
+  }
+}
+@tailwind components;
+@tailwind utilities;
