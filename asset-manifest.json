@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/petshop/static/css/main.2acbfa4e.css",
+    "main.js": "/petshop/static/js/main.bede35c8.js",
+    "static/media/women.png": "/petshop/static/media/women.88e1d1b72261663566ef.png",
+    "static/media/handDog.png": "/petshop/static/media/handDog.e1528f4610c4b6cd1b54.png",
+    "static/media/sitsu.png": "/petshop/static/media/sitsu.d97f2b19d55e1616b078.png",
+    "static/media/spinner.gif": "/petshop/static/media/spinner.9f2945eaa6315bff0b34.gif",
+    "static/media/card.png": "/petshop/static/media/card.b7b1e16291ce3295e6f3.png",
+    "static/media/petx.jpg": "/petshop/static/media/petx.8d291e470a1040365b70.jpg",
+    "index.html": "/petshop/index.html",
+    "static/media/google.svg": "/petshop/static/media/google.330a2dc7f18d7502647dc5d6f93812ec.svg",
+    "main.2acbfa4e.css.map": "/petshop/static/css/main.2acbfa4e.css.map",
+    "main.bede35c8.js.map": "/petshop/static/js/main.bede35c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2acbfa4e.css",
+    "static/js/main.bede35c8.js"
+  ]
+}
